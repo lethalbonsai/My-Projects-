@@ -174,4 +174,5 @@ int main()
 			
 	} 
 	goto m;
+	return 0;
 }
